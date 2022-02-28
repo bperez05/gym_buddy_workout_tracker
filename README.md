@@ -27,7 +27,9 @@ This application allows users to keep track of their workouts. The application w
 
 ### Demo 🎥
 
-![Gym_buddy Gif](Screen Shot 2022-02-28 at 12.39.34 AM.png)
+* [Gym_buddy Recorded Workout](Screen Shot 2022-02-28 at 4.07.37 PM.png)
+* [Gym_buddy WorkOut Graph](Screen Shot 2022-02-28 at 4.08.51 PM.png)
+* [Gym_buddy Gif](Screen Shot 2022-02-28 at 1.10.53 AM.png)
 
 ### GitHub & Heroku Link
 
